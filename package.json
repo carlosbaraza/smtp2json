@@ -1,0 +1,16 @@
+{
+  "name": "smtp-server-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/server.js",
+  "scripts": {
+    "start": "node lib/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mailparser": "^2.0.1",
+    "request": "^2.79.0",
+    "smtp-server": "^2.0.1"
+  }
+}
